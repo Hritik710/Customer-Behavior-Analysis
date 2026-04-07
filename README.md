@@ -83,6 +83,6 @@ The Power BI dashboard includes:
 
 ---
 
-##💡 Conclusion
+## 💡 Conclusion
 
 This project demonstrates end-to-end data analytics skills including data cleaning, SQL querying, and dashboard creation. The insights derived can help businesses make data-driven decisions and improve customer experience.
